@@ -1,0 +1,4 @@
+venv
+events
+sqlite
+__pycache__
